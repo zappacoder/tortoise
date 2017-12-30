@@ -1,6 +1,7 @@
 html, body {
   font-size: 18px;
   line-height: 1.4;
+  font-family: Helvetica;
 }
 
 .main {
@@ -19,4 +20,18 @@ header {
 .logo {
   height: 1.5rem;
   padding: 1rem 1rem 1rem 2rem;
+}
+
+.container {
+  width: 960px;
+}
+
+.header-tortoise {
+  display: inline-block;
+  color: white;
+}
+
+nav p {
+  display: inline-block;
+  color: white;
 }
