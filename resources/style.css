@@ -10,6 +10,8 @@ html, body {
   background-repeat: no-repeat;
   background-size: cover;
   height: 31rem;
+  display: flex;
+  justify-content: center;
 }
 
 header {
@@ -17,6 +19,7 @@ header {
   background-color: cadetblue;
   display: flex;
   align-items: center;
+  margin-top: 1rem;
 }
 
 .logo {
@@ -39,4 +42,5 @@ header {
 nav p {
   display: inline-block;
   color: white;
+  padding: 1rem 2rem;
 }
