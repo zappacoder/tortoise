@@ -16,7 +16,7 @@ header {
   height: 4rem;
   background-color: cadetblue;
   display: flex;
-  align-content: center;
+  align-items: center;
 }
 
 .logo {
@@ -31,11 +31,10 @@ header {
 .header-tortoise {
   display: inline-block;
   color: white;
-}
-
-nav {
   flex-grow: 1;
 }
+
+
 
 nav p {
   display: inline-block;
