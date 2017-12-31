@@ -44,15 +44,15 @@ nav p {
 }
 
 .dont {
-  background-color: white;
   display: flex;
   align-content: center;
   position: relative;
-  left: 20rem;
+  left: 22rem;
   top: 10rem;
 }
 
 .dont p {
+  background-color: white;
   padding: 1.5rem 5rem;
   font-weight: bold;
   font-size: 2rem;
