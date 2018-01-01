@@ -81,3 +81,17 @@ nav p {
 .exam-pic {
   width: 3.5rem;
 }
+
+.other-services {
+  display: flex;
+  width: 35%;
+  flex-direction: column;
+  height: 8rem;
+}
+.fittings-pic {
+  width: 5rem;
+}
+
+.truck {
+  width: 5rem;
+}
