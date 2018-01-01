@@ -73,7 +73,7 @@ nav p {
 
 .exams {
   display: flex;
-  width: 35%;
+  width: 30%;
   flex-direction: column;
   height: 8rem;
 }
@@ -82,9 +82,9 @@ nav p {
   width: 3.5rem;
 }
 
-.other-services {
+.fittings {
   display: flex;
-  width: 35%;
+  width: 30%;
   flex-direction: column;
   height: 8rem;
 }
@@ -93,5 +93,12 @@ nav p {
 }
 
 .truck {
+  display: flex;
+  width: 30%;
+  flex-direction: column;
+  height: 8rem;
+}
+
+.truck-pic {
   width: 5rem;
 }
